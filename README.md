@@ -9,7 +9,7 @@ It helps HR teams track employee performance, attrition, recruitment, and workfo
 ## Dash Board 
 
 
-<a href=![HR Analytics Dashboard img](https://github.com/user-attachments/assets/553908ca-5de1-4fa9-9294-0f2448c0bb96)</a>
+<a=![HR Analytics Dashboard img](https://github.com/user-attachments/assets/553908ca-5de1-4fa9-9294-0f2448c0bb96)</a>
 
 
 
