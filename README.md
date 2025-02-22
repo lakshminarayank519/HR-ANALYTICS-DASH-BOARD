@@ -6,6 +6,6 @@ It helps HR teams track employee performance, attrition, recruitment, and workfo
 ## Dataset used
 - <a href="https://github.com/lakshminarayank519/HR-ANALYTICS-DASH-BOARD/blob/main/HR%20Data.xlsx">Dataset</a>
 
--Dash Board Interactions <href = "https://github.com/lakshminarayank519/HR-ANALYTICS-DASH-BOARD/blob/main/HR%20Analytics%20Dashboard%20img.png">View point<\a>
+-Dash Board Interactions <href = "C:\Users\kaveti\OneDrive\Desktop\projects\imgs">View point<\a>
 
 
